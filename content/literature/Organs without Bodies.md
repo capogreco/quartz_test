@@ -1,6 +1,10 @@
 by [[Slavoj Žižek]]
 
-- [online copy](https://www.lacan.com/zizbenbrother.html)
+- [online copy](https://www.lacan.com/zizbenbrother.html) (without introduction)
+
+### Introduction
+
+> From a Hegelian standpoint, one can say that what Deleuze fails to fully perceive is what, among others Schelling saw clearly; the ultimate identity of these two features, of the lowest and the highest: it is precisely THROUGH its stubborn attachment to his singular Self that a human individual is able to extract itself from the particular convolutions of actual life (with its circular movement of generation and corruption) and enter in relation with virtual eternity. This is why (insofar as another name for this egotistic stubborn attachment is Evil) Evil is a formal condition of the rise of the Good; it literally creates the space for the Good. And do we not encounter here the ultimate case of sutured by the singularity of Evil?
 
 ### The Reality of the Virtual
 
