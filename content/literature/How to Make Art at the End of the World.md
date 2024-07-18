@@ -5,8 +5,8 @@ by [[Natalie Loveless]]
 
 > In the pages that follow, I attend specifically to the ways that dialogic, socially oriented, and research-based art practices are remade within the university-as-site. (p 2)
 
-- [[Dialogism]]
-- [[University]]
+- [[dialogism]]
+- [[university]]
 
 
 > ... Lacan's 1964 lectures on the gaze as *objet petit a* ... (p 2)
@@ -16,8 +16,8 @@ Possibly referring to [[Lacan]]'s [[Seminar XI - The Four Fundamental Concepts o
 
 > I do this toward a vision of a university not in ruins ... a university of creativity, experiment, and what I will frame in the pages to come as a mode of eros that is committed, cathected, and sustaining. (p 3)
 
-- [[Eros]]
-- [[Cathexis]]
+- [[eros]]
+- [[cathexis]]
 
 
 > It is for the insertion of voices and practices into the academic everyday that work to trouble disciplinary relays of knowledge / power, allowing for more creative, sensually attuned modes of inhabiting the university as a vibrant location of pedagogical *mattering*. (p 3)
@@ -47,21 +47,21 @@ Again, implicitly: why do research-creation?  What is its role here at the unive
 
 > ... I mobilise research-creation as a mode of resistance to individualist, careerist, and bibliometric university cultures. (p 8)
 
-- [[Bibliometrics]]
-- [[Resistance]]
+- [[bibliometrics]]
+- [[resistance]]
 
 
 > ... when the dialogic and pedagogical start to be used as artistic *material*, the university becomes both a site of institutional critique and an exploratory playground. (p 9)
 
-- [[Dialogism]]
-- [[Pedagogy]]
+- [[dialogism]]
+- [[pedagogy]]
 - [[artistic material]]
 
-- Bourriaud, Nicolas, _[[Relational Aesthetics]]_ (Les Presses du réel, 2002)
+- Bourriaud, Nicolas, _[[relational aesthetics]]_ (Les Presses du réel, 2002)
 - Kester, Grant H., _Conversation Pieces: Community and Communication in Modern Art_ (University of California Press, 2013)
 - Kwon, Miwon, _One Place after Another: Site-Specific Art and Locational Identity_ (MIT Press, 2004)
 
-Could we not say that [[Distributed Synthesis]] uses the [[internet]]  as its [[artistic material]]?  And is the internet not exemplary of "the dialogic and pedagogical"?
+Could we not say that [[distributed synthesis]] uses the [[internet]]  as its [[artistic material]]?  And is the internet not exemplary of "the dialogic and pedagogical"?
 
 
 > ... research-creation is very much entwined with *endogenous* drives in contemporary art practice, theory, and history. (p 10)
@@ -112,7 +112,7 @@ Research-creation can reconfigure how we understand things, ie. what can be pars
 
 > ... psychoanalytic theory is my friend, helping me to theorise research-creation as a method attentive to cathexis and situated curiosity in ways that necessarily tumble out of the frame of the monodisciplinary. (p 15)
 
-- [[Cathexis]]
+- [[cathexis]]
 - [[halting problem]]
 - [[monodisciplinary]]
 
@@ -136,7 +136,7 @@ Ie. when we are using our [[feelings]] to navigate a network of implicit concept
 
 - Shotwell, Alexis, _Against Purity: Living Ethically in Compromised Times_ (University of Minnesota Press, 2016)
 
-Not only does the [[Vitruvian Man]] not exist, but the illusion of rationality, independence, etc. implied therein actively shields our complicity from scrutiny.
+Not only does the [[Vitruvian man]] not exist, but the illusion of rationality, independence, etc. implied therein actively shields our complicity from scrutiny.
 
 
 > The arts ... offer modes of sensuous, aesthetic attunement, and work as a conduit to focus attention, elicit public discourse, and shape cultural imaginaries. "How might the world be organised differently?" is a question that matters urgently, and it is a question that art - particularly art attuned to human and more-than-human social justice - asks in generative and complex ways. (p 16)
@@ -151,7 +151,7 @@ Not only does the [[Vitruvian Man]] not exist, but the illusion of rationality, 
 > ... it invites us to think beyond this form, to denaturalise it, and ask ourselves how we might, each, engage in remaking and reshaping our institutions by bringing artistic literacies, modes, and approaches to bear on the wicked problems that surround us ... (p 18)
 
 
-## Haraway's Dog
+## 1: Haraway's Dog
 
 > ... stories are "wondrous things.  And they are *dangerous*" (King 2003, 9; emphasis added).
 
@@ -276,6 +276,7 @@ Is javascript my dog? ... distributed synthesis?
 - the unconscious is structured like a language
 - the Real comes to us already in conceptual form
 - Haraway, Donna Jeanne, _The Companion Species Manifesto: Dogs, People, and Significant Otherness_ (Prickly Paradigm, 2003)
+- [[God-trick]]
 
 > ... eros figures something that is conditional (in the sense of being *situated*) and that is both critically unknown and unknowable (in the sense of being *emergent*): " ... one cannot *know* the other or the self, but must ask in respect for all of time who and what are emerging in relationship, is the key" (50). (p 26)
 
@@ -335,6 +336,265 @@ The mere presence of a boundary object agitates the primeval sense of correctnes
 > ... research-creation, thus figured insists that curiosity, in all its erotic pluripotency, be its guide, pushing us to tell new stories in the academy, stories that denaturalise singular disciplinary locations while nomadically claiming space within all of them; ...
 
 - Braidotti, Rosi, _Nomadic Subjects: Embodiment and Sexual Difference in Contemporary Feminist Theory, Second Edition_ (Columbia University Press, 2011), p. 352 Pages
+
+
+## 2: Discipline(s)
+
+> ... as Felman tells it, rather than functioning as a deterrent, the storekeeper's prohibition (like Badger's warning to Charm) works not to quash but to *ignite* her curiosity. (p 39)
+
+- Felman, Shoshana, _Jacques Lacan and the Adventure of Insight: Psychoanalysis in Contemporary Culture_ (Harvard University Press, 1987)
+- [[prohibition]]
+- [[curiosity]]
+
+
+> ... Felman asks us to shift our pedagogical habits from a practice of searching for the known or knowable, the manifest content of a reading practice, to a reading (and research) practice that is attentive to the aesthetic, excessive dimensions of knowledge.  She invites us to cathect not only the content of (in this case) the Lacanian text, but its poetic, excessive, and difficult *form*. (p 39)
+
+- [[form]]
+- [[cathexis]]
+
+
+> To work interdisciplinarily, on this reading, is to attend to *who* is producing knowledge and *how* that knowledge is being produced in ways that defamiliarise and reorient discipline from *identity* to *act* - to a thing one *does* rather than a thing one *is* (Foucault 1978) (p 40)
+
+- Foucault, Michel, _The History of Sexuality. Volume 1, An Introduction_ (Allen Lane, 1979)
+
+
+> As Bill Readings suggests, in his prescient *The University in Ruins*: our job, here, is to orient ourselves toward "not a generalised interdisciplinary space but a certain rhythm of disciplinary attachment and detachment, *which is designed so as not to let the question of disciplinarity disappear, sink into routine*" (1997, 176; emphasis added). (p 41)
+
+- [[interdisciplinarity]]
+- Readings, Bill, _The University in Ruins_ (Harvard University Press, 1996)
+
+
+> Research-creation, taken as critical interdisciplinary praxis, asks us to attend to how we habitually justify our research through disciplinary stories, those that we tell and those we have been told along the way. (p 41)
+
+- [[research-creation]]
+- [[creation story]]
+
+
+> ... it asks us to question whether writing, on a page, in an article or book format, is, indeed, the appropriate, most effective, persuasive, or interesting way to "write" our research. (p 41)
+
+- If (for example) the problem is that it has become impossible to point words at the right thing, would dance, with its ability to *index*, not be a more useful intervention?
+
+
+> ... as long as all adjudicating members are willing to listen when a colleague from a neighbouring field explains why what may seem banal from the perspective of one field is, in fact, important, even innovative, to another. (p 41)
+
+- [[interdisciplinarity]]
+
+
+> ... art does not make conclusive, defensible arguments and therefore cannot be, strictly speaking, research; art ... *fails* if it communicates too didactically, too clearly, and thus cannot function as scholarly research ... (p 44)
+
+- [[propositional knowledge]]
+- [[Kundera]] makes a similar point about the art of the novel, in [[The Curtain]]
+- I don't buy [[Natalie Loveless]] 's argument here.  I think she makes two mistakes:
+	- she implicitly reinforces the notion that context independent propositional knowledge is not only possible, but the university's raison d'etre
+	- she undervalues the contribution art makes by implicitly impacting what can be rendered intelligible within a given context
+
+
+> ... it is also to question our very understanding of the work of the university. (p 45)
+
+- [[university]]
+
+
+> ... and legible (enough) to those doing the work of assessment to *count*. (p 45)
+
+- [[counting]]
+
+
+> It is to tell new stories, in new ways, in the academy. (p 45)
+
+- [[research-creation]]
+
+
+> The *unheimlich*, on the other hand, asserts (for Royle, as for Freud) the ego's inability to inhabit a position of mastery within its "own home" (vis-à-vis the unconscious). (p 46)
+
+- [[uncanny]]
+- [[third conceit]]
+- [[mastery]]
+
+
+> It is that *thing* that erupts unpredictably into an otherwise unremarkable moment, defamiliarising it and rendering the presumed unclear. (p 46)
+
+- [[das ding]]
+- [[defamiliarisation]]
+
+
+> ... to experience the uncanny is to always be, like a boundary object, *within* and *without* simultaneously. (p 46)
+
+- [[boundary object]]
+- [[uncanny]]
+
+
+> In the Freudian uncanny, the security of a single-point perspective - intellectual certainty: I see from *here* and I see *that* - is shattered and transported into a register in which *perspectival certainty* is impossible. (p 48)
+
+- [[perspectivism]]
+- [[God-trick]]
+- pretty sure [[Geoffrey Bennington]] writes, somewhere, that we always tread a path between certainty and bewilderment.
+
+
+> Research-creation ... is, at its most interesting, a decidedly uncanny practice. (p 47)
+
+- [[research-creation]]
+- [[uncanny]]
+
+
+> ... the radical undecidability that constitutes the uncanny includes within it a drive toward knowledge; the uncanny instantiates a (curious) drive that hovers at the intersection of knowing and not knowing, belonging and not. (p 47)
+
+- [[uncanny]]
+- [[belonging]]
+
+
+> Etymologically, *curious* has the same root as *careful* or *curate*: to care. (p 47)
+
+- [[care]]
+- [[curiosity]]
+
+
+> ... the uncanny asserts that feeling displaced (ignorant) at the moment one feels one should be at home (knowledgeable) *is the condition of knowledge making at its best* ...
+
+- [[epistemology]]
+- [[uncanny]]
+
+
+> ... it "is really *the form of the narrative* and *not the theme in itself* which plays the decisive role in the production of uncanny effects" (Kofman 1991; 137; emphasis added) (p 48)
+
+- Kofman, Sarah, _Freud and Fiction_ (Polity Press, 1991)
+
+
+> ... when I teach Brazilian pedagogical activist and theorist Paolo Freire's work in my graduate courses I highlight the way that he draws our attention not only to conscious emotional economies (those moments when a reaction to a teacher or a text can be clearly articulated and accounted for in positive or negative terms) but also to *affective* economies - those moments when reactions and bodily instincts or drives run the pedagogical show (be it curiosity or anxiety or both in equal measure).  (p 48)
+
+- [[Freire]]
+- [[pedagogy]]
+- [[curiosity]]
+- [[anxiety]]
+- [[affect]]
+
+
+> Rather than nurturing an irrepressible, unruly, and situated curiosity, the banking model understands knowledge as information bits that are depositable, retrievable, and usable at some moment completely separate from the original scene of learning ...
+
+- [[context independence]]
+- [[situated learning]]
+
+
+> ... unlike fear, anxiety is a structure without object, or, rather, without *predictable object*. (p 49)
+
+- Freud, Sigmund, _Beyond the Pleasure Principle_ (Penguin UK, 2003)
+- [[anxiety]]
+
+
+> ... one might see why anxiety is a condition that is often ascribed to the experience of working research-creationally, and why the uncanny is a useful structure to think with in unpacking research-creation as a site of both promise and threat.
+
+- [[research-creation]]
+- [[anxiety]]
+- [[uncanny]]
+
+
+> ... if, in so doing, art ... is asked simply to accede to the reigning logics of the university without being allowed to remake the university through its presence, to render the university a site of potential uncanniness by rendering the familiar *unfamiliar*, then more is needed. (p 51)
+
+- [[university]]
+- [[uncanny]]
+
+
+> ... to find language that is capacious enough to speak to the variety of practices that their students and colleagues, and they themselves, are developing while also being narrow enough to offer some methodological traction for those seeking to work within the genre(s). (p 52)
+
+- generating vocabularies, as a process, seems central to the project of research-creation
+
+
+> Frayling's short, yet influential, essay is mostly concerned with unpacking inherited caricatures that accrue to the figures of the artist (expressive), designer (experimental), and scientist (rational or mad) ...
+
+- Frayling, Christopher, _Research in Art and Design_ (Royal College of Art, 1993)
+
+
+> ... research *into* art and design, research *through* art and design, and research *for* art and design (1993, 5).  (p 52)
+
+- Read, Sir Herbert Edward, _Education Through Art_ (Faber & Faber, 1943)
+- three categories of [[practice based research]]
+
+
+> Rightly or wrongly, we tend to feel that the goal here is the art rather than the knowledge or understanding ... (p 52)
+
+
+> *Research-for-creation* names a practice in which research produces a final output that takes the form of a *non-academically standard* object, such as a website or exhibition, or rapid prototype (Chapman and Sawchuk 2012, 15-16).
+
+- Chapman, Owen, and Kim Sawchuk, ‘Creation-as-Research: Critical Making in Complex Environments’, _RACAR_, 40.1 (2015), pp. 49–52, doi:[10.7202/1032753ar](https://doi.org/10.7202/1032753ar)
+
+
+> *Creative presentations of research*, Chapman and Sawchuk's third category,  references ... experimental academic practices ... Here the distinction is writerly *vocality*, and the focus is on the imbrication of writerly form and content.
+
+eg:
+- Derrida, Jacques, _Glas_ (University of Nebraska Press, 1986)
+- Benjamin, Walter, _On the Concept of History_ (Createspace, 2016)
+- McLuhan, Marshall, _Counter Blast_ (Harcourt, Brace & World, 1969)
+- Haraway, Donna Jeanne, _The Companion Species Manifesto: Dogs, People, and Significant Otherness_ (Prickly Paradigm, 2003)
+- Barthes, Roland, _A Lover’s Discourse: Fragments_, 1st edition (VINTAGE ARROW - MASS MARKET, 2018)
+
+
+> *Creation-as-research*, Chapman and Sawchuk's final category ... functions, in turn, as a kind of meta-category ... Rather than *being* art, or anthropology, or theory, or criticism, or history, *Becoming Sensor* is all of the above, improperly, partially, and inter-connectedly. (p 55)
+
+- research that does not Know fully what it is
+- I suspect that it might be possible to clarify the pivotal role confusion plays in this schema
+- Myers, Natasha, ‘Becoming Sensor in Sentient Worlds: A More-than-Natural History of a Black Oak Savannah’, in _Between Matter and Method_, 1st edn (Routledge, 2017), pp. 73–96, doi:[10.4324/9781003084792-5](https://doi.org/10.4324/9781003084792-5)
+
+
+> ... the sound art language of attunement .. (p 55)
+
+- [[attunement]]
+- ^ seems important - I should probably chase this
+
+
+> ... it is their final category, creation-as-research ... that speaks most powerfully to research-creation as a unique contribution to the contemporary university landscape.  (p 56)
+
+- [[research-creation]]
+- Chapman, Owen, and Kim Sawchuk, ‘Creation-as-Research: Critical Making in Complex Environments’, _RACAR_, 40.1 (2015), pp. 49–52, doi:[10.7202/1032753ar](https://doi.org/10.7202/1032753ar)
+
+
+> Research-creation, on this reading, is designed to produce polymaths skilled at working in multiple *modalities*, not just *vocalities*.  (p 56)
+
+- [[research-creation]]
+- [[polymath]]
+
+
+> ... that result in "offspring" that are often unthinkable, illegible within the current institutional frameworks of academia.  It creates a chimera.  (p 56)
+
+- [[chimera]]
+- [[fruiting body]]
+- [[context building]]
+
+This seems to me to be the schema which makes the most sense:
+- the creative output creates a context upon which the monograph relies in order to be rendered intelligible
+- the monograph then does the work of connecting back to disciplinary propositions
+
+
+> ... it is productive of work that, more often than not, fails to fully register on either scholarly academic or art-world exhibition fronts.  In doing so, in failing to *fully belong*, and allowing that non-belonging to denaturalise, emergently, its givens, research-creation tells *other stories*, *uncanny stories*, that (have the potential to) carry within them the *other ethics* that King invites us to attend to.  (p 57)
+
+- [[creation story]]
+- [[research-creation]]
+- [[belonging]]
+- [[defamiliarisation]]
+- [[ethics]]
+- [[uncanny]]
+- [[emergence]]
+
+
+> Informed by the uncanny, this critical understanding insists that the question of *where* and *when* research-creation functions as noun ... or verb ... remains open.  (p 57)
+
+
+> It requires that one cultivate a robust capacity to follow curiosity *and* sit with anxiety.  And it requires that one navigate multiple pulls across disciplinary sites, methodological approaches, and formal requirements.  (p 57)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

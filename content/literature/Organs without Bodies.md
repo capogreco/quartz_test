@@ -18,7 +18,7 @@ standard transcendantal == Wittgenstein's "the world"?
 	ie. all that is the case, 
 	ie. Brandomian network of inferential relations
 
-comparison with [[Objective Idealism]], and [[Speculative Realism]]?
+comparison with [[objective idealism]], and [[speculative realism]]?
 
 > ... should NOT be interpreted as an "allegory" with a fixed "deeper meaning," but as a pure "mechanic" intensity beyond meaning ...
 
